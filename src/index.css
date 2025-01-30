@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+  --color-deepNight: #090811;
+  --color-activeText: #F5F5F6;
+}
